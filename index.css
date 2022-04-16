@@ -28,7 +28,7 @@ main{
     position: relative;
     width: 100%;
     height: auto;
-    background-color: #3E3A3A;
+    background-color: #ECDBA3;
     margin: auto;
 }
 
@@ -300,7 +300,7 @@ main{
         bottom: 30px;
     }
     #vermelha{
-        width: 100%;
+        width: 98%;
         height: auto;
         padding: 1%;
         display: flex;
@@ -334,7 +334,7 @@ main{
     }
 
     #azul_claro{
-        width: 100%;
+        width: 98%;
         height: auto;
         padding: 1%;
         display: flex;
@@ -361,7 +361,7 @@ main{
     }
 
     #amarelo{
-        width: 100%;
+        width: 98%;
         height: auto;
         margin: auto;
         padding: 1%;
