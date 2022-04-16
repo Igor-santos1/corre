@@ -278,7 +278,7 @@ main{
 @media only screen and (max-width:576px){
 
     main{
-        width: 95%;
+        width: 100%;
     }
 
     #limao{
@@ -305,7 +305,7 @@ main{
         bottom: 30px;
     }
     #vermelha{
-        width: 98%;
+        width: 100%;
         height: auto;
         margin-top: 8px;
         padding: 1%;
@@ -340,7 +340,7 @@ main{
     }
 
     #azul_claro{
-        width: 98%;
+        width: 100%;
         height: auto;
         margin-top: 8px;
         padding: 1%;
@@ -368,7 +368,7 @@ main{
     }
 
     #amarelo{
-        width: 98%;
+        width: 100%;
         height: auto;
         margin: auto;
         margin-top: 8px;
@@ -380,7 +380,7 @@ main{
     }
 
     .azul_escuro{
-        width: 90%;
+        width: 95%;
         margin-right: 5%;
         margin-top: 5px;
         height: 210px;
